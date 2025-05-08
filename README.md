@@ -1,4 +1,4 @@
-# 🌍 Hello world, this is my journey to become a Data Analyst
+# Hello world, this is my journey to become a Data Analyst
 
 Welcome to my learning documentation repository!  
 I am on a 7-month journey to become a job-ready and internship-ready **Data Analyst** by early 2026.
