@@ -1,1 +1,1 @@
-
+Ini catatan belajar python
